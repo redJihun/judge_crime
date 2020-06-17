@@ -134,3 +134,4 @@ dmypy.json
 # Deeplearning dataset
 dataset/
 /labels.txt
+/np_data.npy
