@@ -130,3 +130,12 @@ dmypy.json
 
 # IDE settings
 .idea/
+
+# Deeplearning dataset
+dataset/
+training_log/
+record/
+/labels.txt
+/np_data.npy
+/*.npy
+/*.csv
